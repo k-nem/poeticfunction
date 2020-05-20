@@ -69,6 +69,8 @@
   </a>
 </p>
 
+
+
 <hr style="margin: 60px 0px 15px 0px">
   <ul>
     <li>
@@ -82,6 +84,11 @@
     <?php
     echo $_SERVER['HTTP_HOST'];
     ?>
+    </li>
+    <li>
+      <a target="_blank" href="https://github.com/k-nem/poeticfunction">
+      Исходный код
+      </a>
     </li>
 
   </ul>

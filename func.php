@@ -786,6 +786,11 @@ h3, h4 {
   echo $_SERVER['HTTP_HOST'];
   ?>
   </li>
+  <li>
+    <a target="_blank" href="https://github.com/k-nem/poeticfunction">
+    Исходный код
+    </a>
+  </li>
 
 </ul>
 
